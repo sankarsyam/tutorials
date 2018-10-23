@@ -35,6 +35,8 @@ export default function resourceFilter(resources) {
 
 - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 
+Clean Code - https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md
+
 ### NodeJS
 
 To check knowledge -https://edgecoders.com/how-well-do-you-know-node-js-36b1473c01c8

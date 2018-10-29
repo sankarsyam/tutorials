@@ -169,6 +169,17 @@ python-keycloak-client : https://pypi.org/project/python-keycloak-client/
 
 Python Cuncurrency : https://www.youtube.com/watch?v=MCs5OvhV9S4
 
+
+Setting up our python repo: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask . 
+blog.miguelgrinberg.com
+Designing a RESTful API with Python and Flask - miguelgrinberg.com
+
+https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way 
+Build a RESTful API with Flask – The TDD Way
+Creating RESTful API’s is incredibly easy with Flask – It has good intentions.
+https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/media/11238/ckPmWnpRkWkkiIfFfyVb_poster1%201.png.jpg
+https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/media/11238/ckPmWnpRkWkkiIfFfyVb_poster1%201.png.jpg
+
 ### Ruby & Rails
 
 ActiveRecord migration: http://edgeguides.rubyonrails.org/active_record_migrations.html

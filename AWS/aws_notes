@@ -1,1 +1,43 @@
 
+#To see logs
+
+Kibana
+
+
+- Enable MFA for AWS account 
+
+- AWS CLI
+
+- cloud formation - infrastructure as a code
+   Yamel file , 
+- VPC 
+   - this can be dev,qa,prod
+   
+  - Subnet , which has inbount and outbout 
+  
+  Nat gateway - should be specified to enable access to ouside(inside aws) 
+  
+  incomming call - Call from internet is comming ,through internal gateway , through application loadbalancer
+  
+  - internal gate way - to communicate internal services (internal Elastic Load Balancer)
+  
+  WAF - is an application firewall
+  
+  docer swam - 
+  
+  ECR - Elastic Container Repository which is like as docker hub. Iamge will be pushed to ECR which is configured in circleci yaml
+  
+  ECS - Managed EC2+ Docker
+  
+  ECS
+    Services
+        Task Definitions
+           Container References
+              
+  CAP theorem - Consistency Avilability Partition
+  
+  
+  
+  
+
+

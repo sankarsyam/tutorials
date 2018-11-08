@@ -207,6 +207,8 @@ https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
 ### GraphQL
 https://graphql.guide/
 
+The road to GraphQL - https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL
+
 ### Flex and Grid
 
 http://grid.malven.co/

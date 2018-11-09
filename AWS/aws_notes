@@ -36,6 +36,20 @@ Kibana
               
   CAP theorem - Consistency Avilability Partition
   
+   ECR - Docker registery
+   
+   Service  contains task details
+   
+   Task definition - define a instruction to run a container
+   
+   STUDIO_APP_ENV
+   
+   
+   add js file health check
+   
+   CloudFront - 
+   
+  
   
   
   LassPass - authentication

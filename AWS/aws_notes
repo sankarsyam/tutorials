@@ -1,0 +1,89 @@
+
+#To see logs
+
+Kibana
+
+
+- Enable MFA for AWS account 
+
+- AWS CLI
+
+- cloud formation - infrastructure as a code
+   Yamel file , 
+- VPC 
+   - this can be dev,qa,prod
+   
+  - Subnet , which has inbount and outbout 
+  
+  Nat gateway - should be specified to enable access to ouside(inside aws) 
+  
+  incomming call - Call from internet is comming ,through internal gateway , through application loadbalancer
+  
+  - internal gate way - to communicate internal services (internal Elastic Load Balancer)
+  
+  WAF - is an application firewall
+  
+  docer swam - 
+  
+  ECR - Elastic Container Repository which is like as docker hub. Iamge will be pushed to ECR which is configured in circleci yaml
+  
+  ECS - Managed EC2+ Docker
+  
+  ECS
+    Services
+        Task Definitions
+           Container References
+              
+  CAP theorem - Consistency Avilability Partition
+  
+   ECR - Docker registery
+   
+   Service  contains task details
+   
+   Task definition - define a instruction to run a container
+   
+   STUDIO_APP_ENV
+   
+   
+   add js file health check
+   
+   CloudFront - 
+   
+  
+  
+  
+  LassPass - authentication
+  
+  get Kibana - 
+  
+  IAM - Identity access management
+     Users
+     Roles
+       Task Role
+       
+  EC2 -
+  
+  VPC - can be taged to a name
+  subnet
+  Security Groups
+   inbound - 80,443
+   
+EC2  - if created , then we need to manage it. Insted if use ECS , aws will manage EC2
+
+LoadBalancere
+   Listeners - 
+     Target Groups - 
+     
+HealthCheck -load balancer will do heal check in  /  OR /health which should retuen 200 status.
+
+
+
+
+
+  
+  
+  
+  
+  
+
+

@@ -35,6 +35,8 @@ export default function resourceFilter(resources) {
 
 - [S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 
+Clean Code - https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md
+
 ### NodeJS
 
 To check knowledge -https://edgecoders.com/how-well-do-you-know-node-js-36b1473c01c8
@@ -167,6 +169,17 @@ python-keycloak-client : https://pypi.org/project/python-keycloak-client/
 
 Python Cuncurrency : https://www.youtube.com/watch?v=MCs5OvhV9S4
 
+
+Setting up our python repo: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask . 
+blog.miguelgrinberg.com
+Designing a RESTful API with Python and Flask - miguelgrinberg.com
+
+https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way 
+Build a RESTful API with Flask – The TDD Way
+Creating RESTful API’s is incredibly easy with Flask – It has good intentions.
+https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/media/11238/ckPmWnpRkWkkiIfFfyVb_poster1%201.png.jpg
+https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/media/11238/ckPmWnpRkWkkiIfFfyVb_poster1%201.png.jpg
+
 ### Ruby & Rails
 
 ActiveRecord migration: http://edgeguides.rubyonrails.org/active_record_migrations.html
@@ -193,6 +206,8 @@ https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
 
 ### GraphQL
 https://graphql.guide/
+
+The road to GraphQL - https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL
 
 ### Flex and Grid
 

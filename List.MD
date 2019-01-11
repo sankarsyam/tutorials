@@ -37,6 +37,8 @@ export default function resourceFilter(resources) {
 
 Clean Code - https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md
 
+JavaScript Errors - https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437
+
 ### NodeJS
 
 To check knowledge -https://edgecoders.com/how-well-do-you-know-node-js-36b1473c01c8

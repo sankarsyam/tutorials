@@ -7,6 +7,8 @@ http://thecodebarbarian.com/basic-functional-programming-with-async-await.html
 
 Closure- https://jsfiddle.net/SyamSankar/9rorkvoo/
 
+Map,Filter, Reduce - https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4
+
 Currying in JavaScript
 ```
 example :

@@ -1,0 +1,2 @@
+make this key a Move to constant - const so that we aren't checking against a random string in the code. We try to keep values of that nature located in the const folder/file
+functions have single responsibilities - In general we want to have our functions have single responsibilities.

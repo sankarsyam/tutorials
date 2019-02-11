@@ -74,6 +74,11 @@ https://www.npmjs.com/package/socket.io-mock
 ```
 morgan
 ```
+Helpers:
+
+sortedIndex : https://lodash.com/docs/4.17.11#sortedIndex
+
+clone deep : https://lodash.com/docs/4.17.11#cloneDeep
 
 ### Node Docker
 

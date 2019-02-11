@@ -250,7 +250,7 @@ After this config change, the server builds have been successfully running on Ci
 
 ### Keycloak
 
-Client Credentials Grant flow
+Client Credentials Grant flow  
 Confidential Client Credentials - https://www.keycloak.org/docs/3.1/server_admin/topics/clients/oidc/confidential.html  
 Service Accounts - https://www.keycloak.org/docs/3.1/server_admin/topics/clients/oidc/service-accounts.html  
 identity_broker - https://www.keycloak.org/docs/latest/server_admin/index.html#_identity_broker  

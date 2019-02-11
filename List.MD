@@ -248,3 +248,9 @@ I also found this reference (https://discuss.circleci.com/t/using-psql-command-i
 
 After this config change, the server builds have been successfully running on CircleCI (at least so far). I'd be curious to hear if this helps any other builds. If I have more time tomorrow I'll try to dig in more. Here is the config for the team 6 server: https://github.com/CognizantStudio/lp02-team-6-mock-server/blob/master/.circleci/config.yml
 
+### Keycloak
+
+Client Credentials Grant flow
+Confidential Client Credentials - https://www.keycloak.org/docs/3.1/server_admin/topics/clients/oidc/confidential.html
+Service Accounts - https://www.keycloak.org/docs/3.1/server_admin/topics/clients/oidc/service-accounts.html
+identity_broker - https://www.keycloak.org/docs/latest/server_admin/index.html#_identity_broker

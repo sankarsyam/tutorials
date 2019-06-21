@@ -99,6 +99,8 @@ Reach Router - https://reach.tech/router
 
 Fragment Driven UIs with Apollo - https://medium.com/@abhiaiyer/fragment-driven-uis-with-apollo-17d933fa1cbe
 
+React - Redux Latest : https://glennstovall.com/react-hooks-before-and-after/
+
 ### NodeJS - Profiling
 
 https://nodejs.org/en/docs/guides/simple-profiling/
@@ -254,3 +256,10 @@ Client Credentials Grant flow
 Confidential Client Credentials - https://www.keycloak.org/docs/3.1/server_admin/topics/clients/oidc/confidential.html  
 Service Accounts - https://www.keycloak.org/docs/3.1/server_admin/topics/clients/oidc/service-accounts.html  
 identity_broker - https://www.keycloak.org/docs/latest/server_admin/index.html#_identity_broker  
+
+### Java
+https://testautomationu.applitools.com/java-programming-course/
+
+### Devops
+DZone: Programming & DevOps news, tutorials & tools - https://dzone.com/
+Async queues for triggering and processing jobs - https://xebia.com/blog/pub-sub-messaging-with-aws-sns-and-sqs/

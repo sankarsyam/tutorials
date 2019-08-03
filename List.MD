@@ -259,7 +259,7 @@ identity_broker - https://www.keycloak.org/docs/latest/server_admin/index.html#_
 
 ### Java
 https://testautomationu.applitools.com/java-programming-course/
-Best practice: http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
+Best practice - http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 
 ### Devops
 DZone: Programming & DevOps news, tutorials & tools - https://dzone.com/

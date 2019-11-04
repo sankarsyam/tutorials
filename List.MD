@@ -9,6 +9,8 @@ Closure- https://jsfiddle.net/SyamSankar/9rorkvoo/
 
 Map,Filter, Reduce - https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4
 
+Arry.includes() - http://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/
+
 Currying in JavaScript
 ```
 example :

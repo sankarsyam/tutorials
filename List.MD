@@ -264,6 +264,8 @@ https://testautomationu.applitools.com/java-programming-course/
 
 Best practice - http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 
+2019 update -https://www.youtube.com/watch?v=J6fegDQPgps
+
 ### Devops
 DZone: Programming & DevOps news, tutorials & tools - https://dzone.com/
 Async queues for triggering and processing jobs - https://xebia.com/blog/pub-sub-messaging-with-aws-sns-and-sqs/

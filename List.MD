@@ -283,8 +283,6 @@ DZone: Programming & DevOps news, tutorials & tools - https://dzone.com/
 Async queues for triggering and processing jobs - https://xebia.com/blog/pub-sub-messaging-with-aws-sns-and-sqs/
 
 ### NPM vs YARN
-Throughout the course we will be using Yarn, however using NPM or Yarn is a personal choice. You can use this as a reference guide for the two different commands you can use. Don't worry if you are not sure of the below commands as we will explore them throughout the course:
-
 
 Install dependencies from package.json: ``` npm install == yarn```
 
